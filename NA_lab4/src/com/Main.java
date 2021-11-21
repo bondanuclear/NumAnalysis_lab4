@@ -74,8 +74,9 @@ public class Main {
             //System.out.println(y[i][0]);
         }
         System.out.println("===============================================");
-        diffTable(n, y, x );
-        printDiffTable(y,n);
+        //diffTable(n, y, x );
+        //printDiffTable(y,n);
         //test.testF();
+        polynom.run();
     }
 }
